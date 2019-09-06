@@ -41,7 +41,7 @@ class PrezChart {
                 show: false
             },
             color: {
-                pattern: ['#9EE384','#67B4C2']
+                pattern: ['#969696','#67B4C2']
             },
             axis: {
                 rotated: true,

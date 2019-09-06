@@ -41,7 +41,7 @@ class AllChart {
                 show: false
             },
             color: {
-                pattern: ['#9EE384','#67B4C2']
+                pattern: ['#969696','#67B4C2']
             },
             axis: {
                 rotated: true,
@@ -77,10 +77,6 @@ class AllChart {
                 }
             }
         });
-
-        // d3.selectAll(".c3-target-2019")
-        // .selectAll(".c3-bar, .c3-texts")
-        // .attr("transform", "translate(0, 1)");
 
     }
 
